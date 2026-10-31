@@ -1,0 +1,15 @@
+#include <iostream>
+
+
+int main() 
+{
+    double prices[] = {5.99, 7.50, 9.99, 15.99};
+
+    std::cout << prices[0] << "\n";
+    std::cout << prices[1] << "\n";
+    std::cout << prices[2] << "\n";
+    std::cout << prices[3] << "\n";
+
+    return 0;
+    
+}

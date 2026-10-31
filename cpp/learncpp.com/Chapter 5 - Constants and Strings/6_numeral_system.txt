@@ -1,0 +1,35 @@
+decimal  - base 10
+binary   - base 2    
+octa     - base 8
+hex      - base 16
+
+decimal
+    0-9
+    sum (# x 10^# position)
+
+    347 = 3 numbers
+    347 = (3 x 10^2) + (4 x 10^1) + (7 x 10^0)
+
+
+binary
+    0-1
+    sum (# x 2^# position)
+
+    1011 = 4 numbers
+    1011 = (1 x 2^3) + (0 x 2^2) + (1 x 2^1) + (1 x 2^0)
+
+
+octa
+    0-7
+    sum (# x 8^# position)
+
+    5646 = 4 numbers
+    5646 = (5 x 8^3) + (6 x 8^2) + (4 x 8^1) + (6 x 8^0)
+    
+hex 
+    0-9 and A-F
+    (# x 16) + (#)
+    (0-9 x 16) + A-F
+
+    9A = (9 x 16 ) + 10
+

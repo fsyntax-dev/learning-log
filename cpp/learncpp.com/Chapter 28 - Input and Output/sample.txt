@@ -1,0 +1,1 @@
+Output in C++ may be buffered. This means that anything that is output to a file stream may not be written to disk immediately.
